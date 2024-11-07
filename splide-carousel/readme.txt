@@ -1,11 +1,11 @@
 === Splide Carousel Block ===
 Contributors:      cloudcatch, dkjensen
 Tags:              block, carousel, slider, splide, full-site-editing
-Tested up to:      6.6.1
-Stable tag:        1.4.7
+Tested up to:      6.7
+Stable tag:        1.5.0
 License:           MIT
 Requires PHP:      7.0
-Requires at least: 6.0.2
+Requires at least: 6.5
 Donate link:       https://www.buymeacoffee.com/dkjensen
 
 Carousel block using Splide to create flexible and accessible sliders
@@ -47,6 +47,9 @@ Use the Splide Carousel block to create image carousels, testimonial rotators, a
 The Splide Carousel block uses the [Splide](https://splidejs.com/) library.
 
 == Changelog ==
+
+= 1.5.0 =
+* Enhancement - Compatibility with WordPress 6.7
 
 = 1.4.7 =
 * Fix - Slides not visible in RTL direction mode

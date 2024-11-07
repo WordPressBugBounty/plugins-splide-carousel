@@ -2,11 +2,11 @@
 /**
  * Plugin Name:       Splide Carousel Block
  * Description:       Carousel block
- * Requires at least: 6.0.2
+ * Requires at least: 6.5
  * Requires PHP:      7.0
- * Version:           1.4.7
+ * Version:           1.5.0
  * Author:            CloudCatch LLC
- * Author URI:		  https://cloudcatch.io
+ * Author URI:        https://cloudcatch.io
  * License:           MIT
  * Text Domain:       splide-carousel
  *
