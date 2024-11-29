@@ -1,7 +1,7 @@
 === Splide Carousel Block ===
 Contributors:      cloudcatch, dkjensen
 Tags:              block, carousel, slider, splide, full-site-editing
-Tested up to:      6.7
+Tested up to:      6.7.1
 Stable tag:        1.5.0
 License:           MIT
 Requires PHP:      7.0
