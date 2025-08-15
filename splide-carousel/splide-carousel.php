@@ -4,7 +4,7 @@
  * Description:       Carousel block
  * Requires at least: 6.5
  * Requires PHP:      7.0
- * Version:           1.6.0
+ * Version:           1.7.0
  * Author:            CloudCatch LLC
  * Author URI:        https://cloudcatch.io
  * License:           MIT
