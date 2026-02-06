@@ -2,7 +2,7 @@
   "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 3,
   "name": "cloudcatch/splide-carousel",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "title": "Splide Carousel",
   "category": "media",
   "attributes": {
@@ -84,11 +84,11 @@
     },
     "breakpointTablet": {
       "type": "integer",
-      "default": "1079"
+      "default": 1079
     },
     "breakpointMobile": {
       "type": "integer",
-      "default": "599"
+      "default": 599
     },
     "perPageTablet": {
       "type": "integer",
