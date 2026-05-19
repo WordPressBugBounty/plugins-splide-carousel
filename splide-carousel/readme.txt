@@ -1,8 +1,8 @@
 === Splide Carousel Block ===
 Contributors:      cloudcatch, dkjensen
 Tags:              block, carousel, slider, splide, full-site-editing
-Tested up to:      6.9
-Stable tag:        1.7.1
+Tested up to:      7.0
+Stable tag:        1.7.2
 License:           MIT
 Requires PHP:      7.0
 Requires at least: 6.5
@@ -47,6 +47,9 @@ Use the Splide Carousel block to create image carousels, testimonial rotators, a
 The Splide Carousel block uses the [Splide](https://splidejs.com/) library.
 
 == Changelog ==
+
+= 1.7.2 =
+* Security - Fix stored Cross-Site Scripting via the `url` block attribute on `cloudcatch/splide-carousel-item` slides (CVE-2026-9022)
 
 = 1.7.1 =
 * Enhancement - Compatibility with WordPress 6.9
